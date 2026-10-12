@@ -56,9 +56,9 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[Dhaka Tesla Pool](https://github.com/adib-11/dhaka-tesla-pool)** · [live](https://dhaka-tesla-pool-ebon.vercel.app) | Ride pooling for Dhaka three-wheelers. Seat booking is concurrency-safe (no overbooking when two passengers accept at once), with a fare ledger and a full audit timeline. | TypeScript · Node.js · Docker |
-| **[Business Model Canvas](https://www.thebusinessmodelcanvas.com/)** | Account-free canvas builder with real editable Word, PowerPoint, PDF and PNG exports. 100/100 Lighthouse. Organic search traffic from 28 countries in 7 languages within two weeks of launch. | Astro · TypeScript |
 | **[ruetcs.org](https://ruetcs.org)** | Official RUET Computing Society website. 100/100 Lighthouse, admin and moderator dashboards, Turnstile-protected forms. | Next.js 15 · Supabase · Tailwind v4 |
+| **[Business Model Canvas](https://www.thebusinessmodelcanvas.com/)** | Account-free canvas builder with real editable Word, PowerPoint, PDF and PNG exports. 100/100 Lighthouse. Organic search traffic from 28 countries in 7 languages within two weeks of launch. | Astro · TypeScript |
+| **[Dhaka Tesla Pool](https://github.com/adib-11/dhaka-tesla-pool)** · [live](https://dhaka-tesla-pool-ebon.vercel.app) | Ride pooling for Dhaka three-wheelers. Seat booking is concurrency-safe (no overbooking when two passengers accept at once), with a fare ledger and a full audit timeline. | TypeScript · Node.js · Docker |
 | **[Portfolio](https://github.com/adib-11/Portfolio)** · [live](https://adibhasan.dev) <br> 🥈 *1st Runner-Up, RCS Portfolio Hackathon 2026* | Animated developer portfolio. | React · TypeScript · GSAP |
 
 ### 🛠️ Tech stack
