@@ -1,109 +1,68 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:8B5CF6&height=190&section=header&text=Md.%20Adib%20Hasan&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=AI%20Engineer%20%C2%B7%20LLM%20Agents%20%C2%B7%20Vision%20Pipelines%20%C2%B7%20MCP&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Md. Adib Hasan, AI Engineer" />
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+LLM+agents+that+write+tested+code;Gemini+%26+Gemma+vision+pipelines;Custom+MCP+servers+and+tools;Looking+for+a+remote+AI+Engineer+internship" alt="Building LLM agents, vision pipelines and MCP tools" />
-</p>
-
-<p align="center">
-  <a href="mailto:adibhasan.work@gmail.com"><img src="https://img.shields.io/badge/Email-adibhasan.work%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/adibhasan11"><img src="https://img.shields.io/badge/LinkedIn-adibhasan11-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="https://adibhasan.dev"><img src="https://img.shields.io/badge/Website-adibhasan.dev-8B5CF6?style=for-the-badge" alt="Website" /></a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ECE-RUET-4F46E5?style=flat-square" alt="ECE at RUET" />
-  <img src="https://img.shields.io/badge/CGPA-3.69%20%2F%204.00-4F46E5?style=flat-square" alt="CGPA 3.69 / 4.00" />
-  <img src="https://img.shields.io/badge/Graduating-Dec%202027-4F46E5?style=flat-square" alt="Graduating Dec 2027" />
-  <img src="https://img.shields.io/badge/Rajshahi,%20Bangladesh-Open%20to%20remote-22C55E?style=flat-square" alt="Rajshahi, Bangladesh, open to remote" />
-  <img src="https://komarev.com/ghpvc/?username=adib-11&style=flat-square&color=8B5CF6&label=Profile%20views" alt="Profile views" />
-</p>
-
----
-
-### 👋 About
-
-- 3rd-year Electrical & Computer Engineering student at **RUET**.
-- I build LLM systems end to end: agent harnesses, vision extraction pipelines and MCP tools. Each one ships with tests and a live URL.
-- 🏆 Won **Build with AI, Hackdays @ RUET 2026** with qDNA. Led a startup team funded as **1 of 5 out of 130+ applicants**.
-- 🎯 Looking for a **remote AI Engineer internship**.
-
-### 🧠 AI systems
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/adib-11/issue-solver"><img src="./profile/pin-issue-solver.svg" width="100%" alt="issue-solver" /></a>
-      <sub>Drives Claude Code or Codex in a locked-down Docker sandbox. Rejects tests that already pass on the broken code.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/adib-11/qdna"><img src="./profile/pin-qdna.svg" width="100%" alt="qDNA" /></a>
-      <sub>🏆 <b>Winner, Hackdays @ RUET 2026</b> · <a href="https://minihackathon-kappa.vercel.app">Live demo</a></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/adib-11/stepcheck"><img src="./profile/pin-stepcheck.svg" width="100%" alt="StepCheck" /></a>
-      <sub>Gemma 4 vision grading · <a href="https://stepcheck.vercel.app">Live demo</a></sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/adib-11/GuardRail-Finance"><img src="./profile/pin-guardrail-finance.svg" width="100%" alt="GuardRail Finance" /></a>
-      <sub>Custom MCP server over SQLite · 400 property-based test cases</sub>
-    </td>
-  </tr>
-</table>
-
-### 🚀 Shipped products
-
-| Project | What it does | Stack |
-|---|---|---|
-| **[ruetcs.org](https://ruetcs.org)** | Official RUET Computing Society website. 100/100 Lighthouse, admin and moderator dashboards, Turnstile-protected forms. | Next.js 15 · Supabase · Tailwind v4 |
-| **[Business Model Canvas](https://www.thebusinessmodelcanvas.com/)** | Account-free canvas builder with real editable Word, PowerPoint, PDF and PNG exports. 100/100 Lighthouse. Organic search traffic from 28 countries in 7 languages within two weeks of launch. | Astro · TypeScript |
-| **[Dhaka Tesla Pool](https://github.com/adib-11/dhaka-tesla-pool)** · [live](https://dhaka-tesla-pool-ebon.vercel.app) | Ride pooling for Dhaka three-wheelers. Seat booking is concurrency-safe (no overbooking when two passengers accept at once), with a fare ledger and a full audit timeline. | TypeScript · Node.js · Docker |
-| **[Portfolio](https://github.com/adib-11/Portfolio)** · [live](https://adibhasan.dev) <br> 🥈 *1st Runner-Up, RCS Portfolio Hackathon 2026* | Animated developer portfolio. | React · TypeScript · GSAP |
-
-### 🛠️ Tech stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge" alt="OpenAI API" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge" alt="Pinecone" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,py,js,nextjs,react,nodejs,tailwind,supabase,postgres,sqlite,docker,vercel,cloudflare,githubactions&perline=14" alt="TypeScript, Python, JavaScript, Next.js, React, Node.js, Tailwind, Supabase, PostgreSQL, SQLite, Docker, Vercel, Cloudflare, GitHub Actions" />
-</p>
-
-### 📊 GitHub stats
-
-<p align="center">
-  <img src="./profile/stats.svg" height="180" alt="GitHub activity" />
-  <img src="./profile/top-langs.svg" height="180" alt="Top languages" />
-</p>
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg" />
-  <img src="./profile/snake.svg" width="100%" alt="Contribution graph eaten by a snake" />
+  <source media="(prefers-color-scheme: dark)" srcset="frames/hero-dark.svg">
+  <img src="frames/hero-light.svg" alt="MD. ADIB HASAN. Associate AI Engineer · ECE Undergrad @ RUET. Based in: Rajshahi, Bangladesh">
 </picture>
 
-### 🏆 Recognition
+## Featured Projects
 
-| | |
-|---|---|
-| 🏆 **Winner** | Build with AI, Hackdays @ RUET 2026, with [qDNA](https://github.com/adib-11/qdna) |
-| 🥈 **1st Runner-Up** | RCS Portfolio Hackathon, RUET Computing Society 2026 |
-| 🥉 **2nd Runner-Up** | Hult Prize at RUET 2026 |
-| 💰 **Funded team lead** | UIHP Innovation Cohort 5: 1 of 5 teams funded out of 130+ (40,000 BDT pre-seed) |
-| 🎖️ **13th** | SciBlitz 2.0 National Hackathon, IEEE CUET 2026, with [InfluenceIQ](https://github.com/adib-11/InfluenceIQ) |
-| 🎖️ **Top 100** | Infinity AI Buildfest 2026, with [InfluenceIQ](https://github.com/adib-11/InfluenceIQ) |
-| 🎖️ **Top 50** | SOLVIO AI Hackathon, Sheba Platform |
+<a href="https://github.com/adib-11/qdna">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="frames/project-1-dark.svg">
+  <img src="frames/project-1-light.svg" alt="qdna. Question genome of your course: Gemini vision extracts past-paper questions, deterministic topic frequency, Pareto coverage and lineage. Hackdays @ RUET 2026 winner. Language: JavaScript. Stars: 1. Commits in the last 26 weeks: 61, at most 27 in one week">
+</picture>
+</a>
 
-### 📜 Certifications
+<a href="https://github.com/adib-11/adib-11">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="frames/project-2-dark.svg">
+  <img src="frames/project-2-light.svg" alt="adib-11. Config files for my GitHub profile. Commits in the last 26 weeks: 26, at most 7 in one week">
+</picture>
+</a>
 
-- **Associate AI Engineer for Developers**, DataCamp (Aug 2026): OpenAI API, embeddings, RAG, LangChain, MCP, LLMOps
-- **Agentic AI**, DeepLearning.AI
+<a href="https://github.com/adib-11/dumpling">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="frames/project-3-dark.svg">
+  <img src="frames/project-3-light.svg" alt="dumpling. Shareable second brain tray app (Electron). Spec: adib-11/second-brain docs/spec/shareable.md. Language: TypeScript. Commits in the last 26 weeks: 99, at most 61 in one week">
+</picture>
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:8B5CF6&height=110&section=footer" width="100%" alt="" />
+<a href="https://github.com/adib-11/Portfolio">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="frames/project-4-dark.svg">
+  <img src="frames/project-4-light.svg" alt="Portfolio. Animated developer portfolio. 1st Runner-Up, RCS Portfolio Hackathon 2026. Language: TypeScript">
+</picture>
+</a>
+
+<a href="https://github.com/adib-11/issue-solver">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="frames/project-5-dark.svg">
+  <img src="frames/project-5-light.svg" alt="issue-solver. Turn GitHub issues into clean, test-first pull requests with automated code reviews — interactive skill &amp; unattended service. Language: TypeScript">
+</picture>
+</a>
+
+<a href="https://github.com/adib-11/dhaka-tesla-pool">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="frames/project-6-dark.svg">
+  <img src="frames/project-6-light.svg" alt="dhaka-tesla-pool. Ride pooling for Dhaka: concurrency-safe seat booking, fare ledger and audit timeline. Language: TypeScript">
+</picture>
+</a>
+
+## Stack
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="frames/stack-dark.svg">
+  <img src="frames/stack-light.svg" alt="Languages: TypeScript, Swift, JavaScript, HTML. Topics: agent-skills, ai-coding, claude-code, code-review, codex, config, github-config, github-issues. Languages by code size: TypeScript 67%, JavaScript 20%, Swift 7%, CSS 4%, Other 2%">
+</picture>
+
+## At a glance
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="frames/glance-dark.svg">
+  <img src="frames/glance-light.svg" alt="Stars earned: 1. PRs merged elsewhere: 3. Contributions per week over the last 52 weeks, November 2025 to November 2026: 225 in all, at most 76 in one week. Pull requests merged into other people's projects: 3. md-tonmoy007/InfluenceIQ, 0 stars: 2. Naim-ECE/hackspark-starter, 0 stars: 1">
+</picture>
+
+## Contact
+
+[adibhasan.dev](https://adibhasan.dev)
+
+<sub>Made with [README Studio](https://readme-studio.adibhasan-work.workers.dev/)</sub>
