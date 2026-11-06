@@ -15,7 +15,7 @@
 <a href="https://github.com/adib-11/adib-11">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="frames/project-2-dark.svg">
-  <img src="frames/project-2-light.svg" alt="adib-11. Config files for my GitHub profile. Commits in the last 26 weeks: 30, at most 9 in one week">
+  <img src="frames/project-2-light.svg" alt="adib-11. Config files for my GitHub profile. Commits in the last 26 weeks: 32, at most 10 in one week">
 </picture>
 </a>
 
