@@ -15,14 +15,14 @@
 <a href="https://github.com/adib-11/adib-11">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="frames/project-2-dark.svg">
-  <img src="frames/project-2-light.svg" alt="adib-11. Config files for my GitHub profile. Commits in the last 26 weeks: 32, at most 10 in one week">
+  <img src="frames/project-2-light.svg" alt="adib-11. Config files for my GitHub profile. Commits in the last 26 weeks: 33, at most 10 in one week">
 </picture>
 </a>
 
 <a href="https://github.com/adib-11/dumpling">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="frames/project-3-dark.svg">
-  <img src="frames/project-3-light.svg" alt="dumpling. Shareable second brain tray app (Electron). Spec: adib-11/second-brain docs/spec/shareable.md. Language: TypeScript. Commits in the last 26 weeks: 99, at most 73 in one week">
+  <img src="frames/project-3-light.svg" alt="dumpling. Shareable second brain tray app (Electron). Spec: adib-11/second-brain docs/spec/shareable.md. Language: TypeScript. Commits in the last 26 weeks: 99, at most 45 in one week">
 </picture>
 </a>
 
