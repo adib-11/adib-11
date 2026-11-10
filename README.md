@@ -8,14 +8,14 @@
 <a href="https://github.com/adib-11/qdna">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="frames/project-1-dark.svg">
-  <img src="frames/project-1-light.svg" alt="qdna. Question genome of your course: Gemini vision extracts past-paper questions, deterministic topic frequency, Pareto coverage and lineage. Hackdays @ RUET 2026 winner. Language: JavaScript. Stars: 1. Commits in the last 26 weeks: 61, at most 52 in one week">
+  <img src="frames/project-1-light.svg" alt="qdna. Question genome of your course: Gemini vision extracts past-paper questions, deterministic topic frequency, Pareto coverage and lineage. Hackdays @ RUET 2026 winner. Language: JavaScript. Stars: 1. Commits in the last 26 weeks: 61, at most 27 in one week">
 </picture>
 </a>
 
 <a href="https://github.com/adib-11/adib-11">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="frames/project-2-dark.svg">
-  <img src="frames/project-2-light.svg" alt="adib-11. Config files for my GitHub profile. Commits in the last 26 weeks: 35, at most 11 in one week">
+  <img src="frames/project-2-light.svg" alt="adib-11. Config files for my GitHub profile. Commits in the last 26 weeks: 36, at most 10 in one week">
 </picture>
 </a>
 
