@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="frames/hero-dark.svg">
-  <img src="frames/hero-light.svg" alt="MD. ADIB HASAN. Based in: Rajshahi, Bangladesh">
+  <img src="frames/hero-light.svg" alt="Md. Adib Hasan. Based in: Rajshahi, Bangladesh">
 </picture>
 
 ## Featured Projects
@@ -15,7 +15,7 @@
 <a href="https://github.com/adib-11/adib-11">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="frames/project-2-dark.svg">
-  <img src="frames/project-2-light.svg" alt="adib-11. Config files for my GitHub profile. Commits in the last 26 weeks: 37, at most 9 in one week">
+  <img src="frames/project-2-light.svg" alt="adib-11. Config files for my GitHub profile. Commits in the last 26 weeks: 39, at most 9 in one week">
 </picture>
 </a>
 
