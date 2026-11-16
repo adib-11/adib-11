@@ -15,7 +15,7 @@
 <a href="https://github.com/adib-11/adib-11">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="frames/project-2-dark.svg">
-  <img src="frames/project-2-light.svg" alt="adib-11. Config files for my GitHub profile. Commits in the last 26 weeks: 45, at most 11 in one week">
+  <img src="frames/project-2-light.svg" alt="adib-11. Config files for my GitHub profile. Commits in the last 26 weeks: 47, at most 12 in one week">
 </picture>
 </a>
 
@@ -36,14 +36,14 @@
 <a href="https://github.com/adib-11/issue-solver">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="frames/project-5-dark.svg">
-  <img src="frames/project-5-light.svg" alt="issue-solver. Turn GitHub issues into clean, test-first pull requests with automated code reviews — interactive skill &amp; unattended service. Language: TypeScript. Commits in the last 26 weeks: 45, at most 35 in one week">
+  <img src="frames/project-5-light.svg" alt="issue-solver. Turn GitHub issues into clean, test-first pull requests with automated code reviews — interactive skill &amp; unattended service. Language: TypeScript">
 </picture>
 </a>
 
 <a href="https://github.com/adib-11/dhaka-tesla-pool">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="frames/project-6-dark.svg">
-  <img src="frames/project-6-light.svg" alt="dhaka-tesla-pool. Ride pooling for Dhaka: concurrency-safe seat booking, fare ledger and audit timeline. Language: TypeScript. Commits in the last 26 weeks: 52, at most 51 in one week">
+  <img src="frames/project-6-light.svg" alt="dhaka-tesla-pool. Ride pooling for Dhaka: concurrency-safe seat booking, fare ledger and audit timeline. Language: TypeScript">
 </picture>
 </a>
 
@@ -58,7 +58,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="frames/glance-dark.svg">
-  <img src="frames/glance-light.svg" alt="Stars earned: 1. PRs merged elsewhere: 3. Contributions per week over the last 52 weeks, November 2025 to November 2026: 226 in all, at most 76 in one week. Pull requests merged into other people's projects: 3. md-tonmoy007/InfluenceIQ, 0 stars: 2. Naim-ECE/hackspark-starter, 0 stars: 1">
+  <img src="frames/glance-light.svg" alt="Stars earned: 1. PRs merged elsewhere: 3. Contributions per week over the last 52 weeks, November 2025 to November 2026: 230 in all, at most 76 in one week. Pull requests merged into other people's projects: 3. md-tonmoy007/InfluenceIQ, 0 stars: 2. Naim-ECE/hackspark-starter, 0 stars: 1">
 </picture>
 
 ## Contact
