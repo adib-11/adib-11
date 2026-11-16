@@ -1,49 +1,53 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="frames/hero-dark.svg">
-  <img src="frames/hero-light.svg" alt="Md. Adib Hasan. Based in: Rajshahi, Bangladesh">
+  <img src="frames/hero-light.svg" alt="Md. Adib Hasan. I'm a developer building past-paper study tools, GitHub issue-to-PR workflows, and ride-pooling apps. Based in: Rajshahi, Bangladesh">
 </picture>
+
+## About
+
+Associate AI Engineer · ECE Undergrad @ RUET
 
 ## Featured Projects
 
 <a href="https://github.com/adib-11/qdna">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="frames/project-1-dark.svg">
-  <img src="frames/project-1-light.svg" alt="qdna. Question genome of your course: Gemini vision extracts past-paper questions, deterministic topic frequency, Pareto coverage and lineage. Hackdays @ RUET 2026 winner. Language: JavaScript. Stars: 1. Commits in the last 26 weeks: 61, at most 52 in one week">
+  <img src="frames/project-1-light.svg" alt="qdna. Analyzes past-paper questions to show topic frequency, coverage and lineage. Language: JavaScript. Stars: 1. Commits in the last 26 weeks: 61, at most 52 in one week">
 </picture>
 </a>
 
 <a href="https://github.com/adib-11/adib-11">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="frames/project-2-dark.svg">
-  <img src="frames/project-2-light.svg" alt="adib-11. Config files for my GitHub profile. Commits in the last 26 weeks: 47, at most 12 in one week">
+  <img src="frames/project-2-light.svg" alt="adib-11. Configuration files for a GitHub profile. Commits in the last 26 weeks: 47, at most 12 in one week">
 </picture>
 </a>
 
 <a href="https://github.com/adib-11/dumpling">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="frames/project-3-dark.svg">
-  <img src="frames/project-3-light.svg" alt="dumpling. Shareable second brain tray app (Electron). Spec: adib-11/second-brain docs/spec/shareable.md. Language: TypeScript. Commits in the last 26 weeks: 99, at most 61 in one week">
+  <img src="frames/project-3-light.svg" alt="dumpling. An Electron tray app for sharing a second brain. Language: TypeScript. Commits in the last 26 weeks: 99, at most 61 in one week">
 </picture>
 </a>
 
 <a href="https://github.com/adib-11/Portfolio">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="frames/project-4-dark.svg">
-  <img src="frames/project-4-light.svg" alt="Portfolio. Animated developer portfolio. 1st Runner-Up, RCS Portfolio Hackathon 2026. Language: TypeScript">
+  <img src="frames/project-4-light.svg" alt="Portfolio. An animated developer portfolio. Language: TypeScript">
 </picture>
 </a>
 
 <a href="https://github.com/adib-11/issue-solver">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="frames/project-5-dark.svg">
-  <img src="frames/project-5-light.svg" alt="issue-solver. Turn GitHub issues into clean, test-first pull requests with automated code reviews — interactive skill &amp; unattended service. Language: TypeScript">
+  <img src="frames/project-5-light.svg" alt="issue-solver. Turns GitHub issues into test-first pull requests with automated code reviews. Language: TypeScript">
 </picture>
 </a>
 
 <a href="https://github.com/adib-11/dhaka-tesla-pool">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="frames/project-6-dark.svg">
-  <img src="frames/project-6-light.svg" alt="dhaka-tesla-pool. Ride pooling for Dhaka: concurrency-safe seat booking, fare ledger and audit timeline. Language: TypeScript">
+  <img src="frames/project-6-light.svg" alt="dhaka-tesla-pool. Ride pooling for Dhaka with seat booking, fare ledger and audit timeline. Language: TypeScript">
 </picture>
 </a>
 
